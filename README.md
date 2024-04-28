@@ -1,18 +1,18 @@
 ![logo](https://github.com/Abdullah9202/Abdullah9202/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Abdullah Khurram</h1>
-<h3 align="center">A passionate python developer and cyber security enthusiast from Pakistan.</h3>
+<h3 align="center">A developer and cyber security enthusiast from Pakistan.</h3>
 
 <img align="right" alt="Hack the Planet" width="400" src="https://giffiles.alphacoders.com/174/1744.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah9202&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah9202" /> </p>
 
-- 🔭 I’m currently working on **Model AI**
+- 🔭 I’m currently working on **POS Software**
 
 - 🌱 I’m currently learning **Python and cyber security**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah9202](https://github.com/Abdullah9202)
 
-- 💬 Ask me about **Hacking and AI**
+- 💬 Ask me about **Hacking, AI and Development**
 
 - 📫 How to reach me **abdullahkhurram9202@gmail.com**
 
