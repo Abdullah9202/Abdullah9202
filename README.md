@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah9202&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah9202" /> </p>
 
-- 🔭 I’m currently working on **POS Software**
+- 🔭 I’m currently working on **B2B Platform**
 
 - 🌱 I’m currently learning **Python and cyber security**
 
