@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **B2B Platform**
 
-- 🌱 I’m currently learning **Python and cyber security**
+- 🌱 I’m currently learning **Python and Golang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah9202](https://github.com/Abdullah9202)
 
