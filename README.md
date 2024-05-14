@@ -62,8 +62,8 @@
   </a> 
 </p>
 
-<p align="left" style="padding-top: 20px;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah9202&show_icons=true&locale=en&layout=compact" alt="abdullah9202" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah9202&show_icons=true&locale=en&layout=compact" alt="abdullah9202" style="padding-right: 120px;"/>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah9202&show_icons=true&locale=en" alt="abdullah9202" /></p>
