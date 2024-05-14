@@ -62,7 +62,7 @@
   </a> 
 </p>
 
-<p>
+<p align="left" style="padding-top: 20px;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah9202&show_icons=true&locale=en&layout=compact" alt="abdullah9202" />
 </p>
 
