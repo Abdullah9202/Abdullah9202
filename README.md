@@ -39,8 +39,11 @@
   <a href="https://www.python.org" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="#" target="_blank" rel="noopener"> 
+  <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noopener"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://www.blender.org/" target="_blank" rel="noopener">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
