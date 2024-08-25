@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Prelevels**
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Python and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah9202](https://github.com/Abdullah9202)
 
