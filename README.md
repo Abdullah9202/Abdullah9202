@@ -42,6 +42,9 @@
   <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
+  <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank" rel="noopener"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank" rel="noopener"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   </a>
