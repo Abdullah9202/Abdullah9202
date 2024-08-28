@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **abdullahkhurram9202@gmail.com**
 
-- ⚡ Fun fact **Love to exploit**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/abdullah khurram" target="blank">
