@@ -49,6 +49,9 @@
   <a href="https://www.w3schools.com/css/default.asp" target="_blank" rel="noopener"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> 
   </a>
+  <a href="https://www.w3schools.com/REACT/DEFAULT.ASP" target="_blank" rel="noopener"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noopener"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
