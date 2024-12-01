@@ -61,6 +61,9 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
+  <a href="https://linux.org/" target="_blank" rel="noopener"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
 </p>
 
 <p>
