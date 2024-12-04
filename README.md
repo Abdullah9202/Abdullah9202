@@ -31,6 +31,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a> 
@@ -66,9 +69,6 @@
   </a> 
   <a href="https://www.centos.org/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.kali.org/" target="_blank" rel="noopener"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" width="40" height="40"/> 
   </a> 
 </p>
 
