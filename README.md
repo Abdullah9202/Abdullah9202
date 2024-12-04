@@ -67,6 +67,9 @@
   <a href="https://www.centos.org/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> 
   </a> 
+  <a href="https://www.kali.org/" target="_blank" rel="noopener"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kali/kali-original.svg" alt="Kali Linux" width="40" height="40"/> 
+  </a> 
 </p>
 
 <p>
