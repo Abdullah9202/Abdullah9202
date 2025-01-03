@@ -24,7 +24,7 @@
   <a href="https://fb.com/abdullah kuhrram" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah kuhrram" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/loy_dem9202" target="blank">
+  <a href="https://www.instagram.com/abdullah92_02/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="loy_dem9202" height="30" width="40" />
   </a>
 </p>
