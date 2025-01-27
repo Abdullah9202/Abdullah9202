@@ -31,6 +31,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/> 
+  </a> 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> 
   </a> 
