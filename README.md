@@ -78,17 +78,23 @@
   </a> 
 </p>
 
-<div align="center">
-  <p>
-    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah9202&show_icons=true&locale=en&layout=compact" alt="abdullah9202" />
-  </p>
+## 📊 GitHub Stats
 
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah9202&show_icons=true&locale=en" alt="abdullah9202" />
-  </p>
-
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah9202&" alt="abdullah9202" />
-  </p>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah9202&layout=compact&theme=radical&border_radius=10" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abdullah9202&show_icons=true&theme=radical&border_radius=10" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah9202&theme=radical&border_radius=10" />
+    </td>
+  </tr>
+</table>
 
