@@ -78,8 +78,8 @@
   </a> 
 </p>
 
-<p>
-  <img align="center" justify-content="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah9202&show_icons=true&locale=en&layout=compact" alt="abdullah9202" />
+<p justify-content="center">
+  <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah9202&show_icons=true&locale=en&layout=compact" alt="abdullah9202" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah9202&show_icons=true&locale=en" alt="abdullah9202" /></p>
