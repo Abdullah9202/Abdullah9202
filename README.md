@@ -80,7 +80,7 @@
 
 ## 📊 GitHub Stats
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" style="padding: 15px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah9202&layout=compact&theme=radical&border_radius=10&card_width=400" />
